@@ -1,4 +1,4 @@
-# todo-cli 📋
+# todo 📋
 
 A command-line task manager written in C. Tasks persist between sessions using a local binary file — no dependencies, no setup, just compile and run.
 
